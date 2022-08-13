@@ -1,8 +1,8 @@
-# Conceitos importantes
+# Chamadas HTTP
 
-Branch '02-conceitos-importantes' com exemplificação dos conceitos sobre componente, propriedade e estado.
+Branch '03-chamadas-http' com exemplificação de utilização do useEffect para consumo de API (fetch).
 
-Utilização do hook 'useState' para declaração de estado do componente.
+Renderização do retorno da API através da utilização do 'map' (High Order Function).
 
 ## 🔗 Links
 
