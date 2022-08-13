@@ -1,7 +1,8 @@
-# Configurando ambiente React JS
+# Conceitos importantes
 
-Branch '01-configurando-ambiente' com o setup demonstrado na chapter 01
-do curso de React JS do Ignite da Rocketseat.
+Branch '02-conceitos-importantes' com exemplificação dos conceitos sobre componente, propriedade e estado.
+
+Utilização do hook 'useState' para declaração de estado do componente.
 
 ## 🔗 Links
 
