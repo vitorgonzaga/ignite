@@ -4,9 +4,16 @@ import { RepositoryItem } from "./RepositoryItem";
 
 // https://api.github.com/orgs/rocketseat/repos
 
+interface Repository {
+  id: string;
+  name: string;
+  description: string;
+  html_url: string;
+}
+
 export function RepositoryList() {
 
-  const [repositories, setRepositories] = useState([]);
+  const [repositories, setRepositories] = useState<Repository[]>([]);
 
   // ciclo de vida do componente
   // array vazio = ComponentDidMount
